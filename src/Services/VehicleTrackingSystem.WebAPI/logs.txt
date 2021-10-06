@@ -1,0 +1,142 @@
+[16:16:24 INF] User profile is available. Using 'C:\Users\Pramod\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+[16:16:26 INF] Application started. Press Ctrl+C to shut down.
+[16:16:26 INF] Hosting environment: Development
+[16:16:26 INF] Content root path: C:\E\Vehicletrackingsystem\Vehicletrackingsystem\src\Services\VehicleTrackingSystem.WebAPI
+[16:16:26 INF] Request starting HTTP/2 GET https://localhost:44367/weatherforecast - -
+[16:16:27 INF] Request finished HTTP/2 GET https://localhost:44367/weatherforecast - - - 404 - - 1185.6102ms
+[16:23:22 INF] Request starting HTTP/2 GET https://localhost:44367/swegger - -
+[16:23:22 INF] Request finished HTTP/2 GET https://localhost:44367/swegger - - - 404 - - 26.6849ms
+[16:23:29 INF] Request starting HTTP/2 GET https://localhost:44367/swagger - -
+[16:23:29 INF] Request finished HTTP/2 GET https://localhost:44367/swagger - - - 404 - - 6.3116ms
+[16:23:34 INF] Request starting HTTP/2 GET https://localhost:44367/swagger/index - -
+[16:23:34 INF] Request finished HTTP/2 GET https://localhost:44367/swagger/index - - - 404 - - 1.4175ms
+[16:23:48 INF] Request starting HTTP/2 GET https://localhost:44367/Swagger - -
+[16:23:48 INF] Request finished HTTP/2 GET https://localhost:44367/Swagger - - - 404 - - 1.8204ms
+[16:27:27 INF] User profile is available. Using 'C:\Users\Pramod\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+[16:27:27 INF] Now listening on: https://localhost:5001
+[16:27:27 INF] Application started. Press Ctrl+C to shut down.
+[16:27:27 INF] Hosting environment: Development
+[16:27:27 INF] Content root path: C:\E\Vehicletrackingsystem\Vehicletrackingsystem\src\Services\VehicleTrackingSystem.WebAPI
+[16:27:35 INF] Request starting HTTP/2 GET https://localhost:5001/api/vehicleregistration - -
+[16:27:35 INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+[16:27:35 INF] AuthenticationScheme: Bearer was challenged.
+[16:27:35 INF] Request finished HTTP/2 GET https://localhost:5001/api/vehicleregistration - - - 401 0 - 155.1383ms
+[16:27:50 INF] Request starting HTTP/2 GET https://localhost:5001/swagger - -
+[16:27:50 INF] Request finished HTTP/2 GET https://localhost:5001/swagger - - - 404 0 - 5.3563ms
+[16:28:18 INF] Request starting HTTP/2 GET https://localhost:5001/swagger - -
+[16:28:18 INF] Request finished HTTP/2 GET https://localhost:5001/swagger - - - 404 0 - 7.0166ms
+[16:28:50 INF] Application is shutting down...
+[16:31:28 INF] User profile is available. Using 'C:\Users\Pramod\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+[16:31:28 INF] Now listening on: https://localhost:5001
+[16:31:28 INF] Application started. Press Ctrl+C to shut down.
+[16:31:28 INF] Hosting environment: Development
+[16:31:28 INF] Content root path: C:\E\Vehicletrackingsystem\Vehicletrackingsystem\src\Services\VehicleTrackingSystem.WebAPI
+[16:31:30 INF] Request starting HTTP/2 GET https://localhost:5001/api/vehicleregistration - -
+[16:31:30 INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+[16:31:30 INF] AuthenticationScheme: Bearer was challenged.
+[16:31:30 INF] Request finished HTTP/2 GET https://localhost:5001/api/vehicleregistration - - - 401 0 - 161.6612ms
+[16:31:46 INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.jsonon - -
+[16:31:47 INF] Request finished HTTP/2 GET https://localhost:5001/swagger/v1/swagger.jsonon - - - 200 - application/json;charset=utf-8 179.0339ms
+[16:31:47 INF] Request starting HTTP/2 GET https://localhost:5001/favicon.ico - -
+[16:31:47 INF] Request finished HTTP/2 GET https://localhost:5001/favicon.ico - - - 404 0 - 4.6958ms
+[16:31:57 INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/ - -
+[16:31:57 INF] Request finished HTTP/2 GET https://localhost:5001/swagger/v1/ - - - 404 0 - 2.7868ms
+[16:32:04 INF] Request starting HTTP/2 GET https://localhost:5001/swagger/ - -
+[16:32:04 INF] Request finished HTTP/2 GET https://localhost:5001/swagger/ - - - 404 0 - 2.4289ms
+[16:41:20 INF] User profile is available. Using 'C:\Users\Pramod\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+[16:41:20 INF] Now listening on: https://localhost:5001
+[16:41:20 INF] Application started. Press Ctrl+C to shut down.
+[16:41:20 INF] Hosting environment: Development
+[16:41:20 INF] Content root path: C:\E\Vehicletrackingsystem\Vehicletrackingsystem\src\Services\VehicleTrackingSystem.WebAPI
+[16:41:22 INF] Request starting HTTP/2 GET https://localhost:5001/api/vehicleregistration - -
+[16:41:22 INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+[16:41:22 INF] AuthenticationScheme: Bearer was challenged.
+[16:41:22 INF] Request finished HTTP/2 GET https://localhost:5001/api/vehicleregistration - - - 401 0 - 183.5203ms
+[16:41:43 INF] Request starting HTTP/2 GET https://localhost:5001/swagger - -
+[16:41:43 INF] Request finished HTTP/2 GET https://localhost:5001/swagger - - - 404 0 - 5.0079ms
+[16:41:47 INF] Request starting HTTP/2 GET https://localhost:5001/swagger - -
+[16:41:47 INF] Request finished HTTP/2 GET https://localhost:5001/swagger - - - 404 0 - 3.1652ms
+[16:41:53 INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index - -
+[16:41:53 INF] Request finished HTTP/2 GET https://localhost:5001/swagger/index - - - 404 0 - 2.2623ms
+[16:42:01 INF] Application is shutting down...
+[16:44:19 INF] User profile is available. Using 'C:\Users\Pramod\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+[16:44:19 INF] Now listening on: https://localhost:5001
+[16:44:19 INF] Application started. Press Ctrl+C to shut down.
+[16:44:19 INF] Hosting environment: Development
+[16:44:19 INF] Content root path: C:\E\Vehicletrackingsystem\Vehicletrackingsystem\src\Services\VehicleTrackingSystem.WebAPI
+[16:44:22 INF] Request starting HTTP/2 GET https://localhost:5001/api/vehicleregistration - -
+[16:44:22 INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+[16:44:22 INF] AuthenticationScheme: Bearer was challenged.
+[16:44:22 INF] Request finished HTTP/2 GET https://localhost:5001/api/vehicleregistration - - - 401 0 - 145.9760ms
+[16:44:34 INF] Request starting HTTP/2 GET https://localhost:5001/swagger - -
+[16:44:34 INF] Request finished HTTP/2 GET https://localhost:5001/swagger - - - 301 0 - 3.4430ms
+[16:44:34 INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html - -
+[16:44:34 INF] Request finished HTTP/2 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 70.2207ms
+[16:44:34 INF] Request starting HTTP/2 GET https://localhost:5001/swagger/swagger-ui-standalone-preset.js - -
+[16:44:34 INF] Request starting HTTP/2 GET https://localhost:5001/swagger/swagger-ui-bundle.js - -
+[16:44:34 INF] Request starting HTTP/2 GET https://localhost:5001/swagger/swagger-ui.css - -
+[16:44:35 INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+[16:44:35 INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+[16:44:35 INF] Request finished HTTP/2 GET https://localhost:5001/swagger/swagger-ui-standalone-preset.js - - - 200 337162 application/javascript 888.9202ms
+[16:44:35 INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+[16:44:35 INF] Request finished HTTP/2 GET https://localhost:5001/swagger/swagger-ui.css - - - 200 143632 text/css 888.8130ms
+[16:44:35 INF] Request finished HTTP/2 GET https://localhost:5001/swagger/swagger-ui-bundle.js - - - 200 1092889 application/javascript 892.3585ms
+[16:44:35 INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json - -
+[16:44:35 INF] Request starting HTTP/2 GET https://localhost:5001/swagger/favicon-32x32.png - -
+[16:44:35 INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+[16:44:35 INF] Request finished HTTP/2 GET https://localhost:5001/swagger/favicon-32x32.png - - - 200 628 image/png 5.5008ms
+[16:44:35 INF] Request finished HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 116.9698ms
+[16:46:37 INF] User profile is available. Using 'C:\Users\Pramod\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+[16:46:38 INF] Now listening on: https://localhost:5001
+[16:46:38 INF] Application started. Press Ctrl+C to shut down.
+[16:46:38 INF] Hosting environment: Development
+[16:46:38 INF] Content root path: C:\E\Vehicletrackingsystem\Vehicletrackingsystem\src\Services\VehicleTrackingSystem.WebAPI
+[16:46:40 INF] Request starting HTTP/2 GET https://localhost:5001/api/vehicleregistration - -
+[16:46:40 INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+[16:46:40 INF] AuthenticationScheme: Bearer was challenged.
+[16:46:40 INF] Request finished HTTP/2 GET https://localhost:5001/api/vehicleregistration - - - 401 0 - 156.1746ms
+[16:46:53 INF] Request starting HTTP/2 GET https://localhost:5001/swagger - -
+[16:46:53 INF] Request finished HTTP/2 GET https://localhost:5001/swagger - - - 301 0 - 3.8026ms
+[16:46:53 INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html - -
+[16:46:53 INF] Request finished HTTP/2 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 70.5694ms
+[16:46:53 INF] Request starting HTTP/2 GET https://localhost:5001/swagger/swagger-ui-standalone-preset.js - -
+[16:46:53 INF] Request starting HTTP/2 GET https://localhost:5001/swagger/swagger-ui-bundle.js - -
+[16:46:53 INF] Request starting HTTP/2 GET https://localhost:5001/swagger/swagger-ui.css - -
+[16:46:53 INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+[16:46:53 INF] Request finished HTTP/2 GET https://localhost:5001/swagger/swagger-ui.css - - - 200 143632 text/css 42.0964ms
+[16:46:53 INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+[16:46:53 INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+[16:46:53 INF] Request finished HTTP/2 GET https://localhost:5001/swagger/swagger-ui-standalone-preset.js - - - 200 337162 application/javascript 60.9004ms
+[16:46:53 INF] Request finished HTTP/2 GET https://localhost:5001/swagger/swagger-ui-bundle.js - - - 200 1092889 application/javascript 60.5098ms
+[16:46:53 INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json - -
+[16:46:53 INF] Request finished HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 112.2747ms
+[18:23:08 INF] User profile is available. Using 'C:\Users\Pramod\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+[18:23:09 INF] Now listening on: https://localhost:5001
+[18:23:09 INF] Application started. Press Ctrl+C to shut down.
+[18:23:09 INF] Hosting environment: Development
+[18:23:09 INF] Content root path: C:\E\Vehicletrackingsystem\VehicleTrackingSystem\src\Services\VehicleTrackingSystem.WebAPI
+[18:23:15 INF] Request starting HTTP/2 GET https://localhost:5001/api/vehicleregistration - -
+[18:23:18 INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+[18:23:18 INF] AuthenticationScheme: Bearer was challenged.
+[18:23:18 INF] Request finished HTTP/2 GET https://localhost:5001/api/vehicleregistration - - - 401 0 - 3126.4327ms
+[18:23:34 INF] Request starting HTTP/2 GET https://localhost:5001/swagger - -
+[18:23:34 INF] Request finished HTTP/2 GET https://localhost:5001/swagger - - - 301 0 - 24.7100ms
+[18:23:34 INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html - -
+[18:23:34 INF] Request finished HTTP/2 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 326.2384ms
+[18:23:34 INF] Request starting HTTP/2 GET https://localhost:5001/swagger/swagger-ui-bundle.js - -
+[18:23:34 INF] Request starting HTTP/2 GET https://localhost:5001/swagger/swagger-ui.css - -
+[18:23:34 INF] Request starting HTTP/2 GET https://localhost:5001/swagger/swagger-ui-standalone-preset.js - -
+[18:23:35 INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+[18:23:35 INF] Request finished HTTP/2 GET https://localhost:5001/swagger/swagger-ui.css - - - 200 143632 text/css 295.4232ms
+[18:23:35 INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+[18:23:35 INF] Request finished HTTP/2 GET https://localhost:5001/swagger/swagger-ui-standalone-preset.js - - - 200 337162 application/javascript 396.5038ms
+[18:23:35 INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+[18:23:35 INF] Request finished HTTP/2 GET https://localhost:5001/swagger/swagger-ui-bundle.js - - - 200 1092889 application/javascript 412.5026ms
+[18:23:35 INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json - -
+[18:23:37 INF] Request finished HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 1647.2635ms
